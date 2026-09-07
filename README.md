@@ -1,4 +1,4 @@
-# Azure Cloud & AI — 150 jours
+# Azure Cloud & AI : 150 jours
 
 Challenge personnel de 150 jours pour progresser en Azure Cloud et en intelligence artificielle, à raison de 2 heures de travail par jour. Ce repository rassemble les réalisations personnelles et les preuves concrètes de cette progression.
 
@@ -17,12 +17,12 @@ Développer progressivement la capacité à comprendre, mettre en pratique, test
 
 L’organisation ci-dessous est indicative et sera ajustée aux phases réellement suivies, sans constituer une nouvelle roadmap. Les dossiers seront créés au fil des réalisations.
 
-| Dossier prévu | Contenu |
-| --- | --- |
-| `phase-01-fondamentaux/` | Fondamentaux cloud, environnement de travail et premiers labs Azure. |
-| `phase-02-cloud/` | Infrastructure, réseau, identité, sécurité et automatisation Azure. |
-| `phase-03-ai/` | Expérimentations et intégration de services d’intelligence artificielle. |
-| `phase-04-projets/` | Projets de synthèse, déploiements, tests et bilans. |
+| Dossier prévu             | Contenu                                                                     |
+| -------------------------- | --------------------------------------------------------------------------- |
+| `phase-01-fondamentaux/` | Fondamentaux cloud, environnement de travail et premiers labs Azure.        |
+| `phase-02-cloud/`        | Infrastructure, réseau, identité, sécurité et automatisation Azure.     |
+| `phase-03-ai/`           | Expérimentations et intégration de services d’intelligence artificielle. |
+| `phase-04-projets/`      | Projets de synthèse, déploiements, tests et bilans.                       |
 
 Le dossier [day-001](day-001/README.md) accueillera les premières preuves de travail. Les réalisations suivantes seront classées par phase et par projet, avec un README précisant leur objectif, les étapes de reproduction et les résultats.
 
