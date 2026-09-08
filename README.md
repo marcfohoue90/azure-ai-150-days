@@ -30,6 +30,11 @@ Le dossier [day-001](day-001/README.md) accueillera les premières preuves de tr
 
 Ce dépôt contient uniquement mes productions personnelles. Le pack de cours **AI150_V2**, ses supports et ses exercices ne sont ni reproduits ni publiés ici. Ils restent sur mon poste.
 
-## État initial
+## Réalisations
 
-Le dépôt est initialisé. Les réalisations et les bilans seront ajoutés au fil des jours.
+| Jour | Sujet | Preuve principale |
+| --- | --- | --- |
+| 1 | Méthode de travail et Git | [Journal technique](day-001/journal_technique.md) |
+| 2 | Windows, WSL2 et VS Code | [Diagnostic de l'environnement](day-002/diagnostic_environnement.md) |
+
+Les réalisations et les bilans seront ajoutés au fil des jours.
