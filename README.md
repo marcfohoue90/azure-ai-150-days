@@ -1,17 +1,17 @@
-# Azure Cloud & AI : 150 jours
+# Azure Cloud et services intelligents en 150 jours
 
-Challenge personnel de 150 jours pour progresser en Azure Cloud et en intelligence artificielle, à raison de 2 heures de travail par jour. Ce repository rassemble les réalisations personnelles et les preuves concrètes de cette progression.
+Ce projet personnel suit 150 jours de progression dans le cloud Azure et ses services intelligents, à raison de deux heures de travail par jour. Il rassemble mes réalisations et les éléments qui montrent mon évolution.
 
 ## Objectif
 
-Développer progressivement la capacité à comprendre, mettre en pratique, tester, corriger et expliquer des solutions Azure Cloud & AI. Chaque réalisation doit permettre de montrer ce qui a été appris et de reproduire le travail effectué.
+Développer progressivement ma capacité à comprendre, mettre en pratique, tester, corriger et expliquer des solutions Azure. Chaque réalisation doit pouvoir être comprise et reproduite.
 
 ## Méthode de travail
 
 - Avancer un jour à la fois selon le programme suivi.
 - Comprendre les notions, pratiquer, tester les limites et corriger les erreurs.
 - Expliquer les acquis avec ses propres mots.
-- Publier les preuves pertinentes : code, labs personnels, schémas, tests et documentation.
+- Publier les éléments utiles comme le code, les exercices personnels, les schémas, les tests et la documentation.
 
 ## Structure prévue par phases
 
@@ -19,17 +19,17 @@ L’organisation ci-dessous est indicative et sera ajustée aux phases réelleme
 
 | Dossier prévu             | Contenu                                                                     |
 | -------------------------- | --------------------------------------------------------------------------- |
-| `phase-01-fondamentaux/` | Fondamentaux cloud, environnement de travail et premiers labs Azure.        |
-| `phase-02-cloud/`        | Infrastructure, réseau, identité, sécurité et automatisation Azure.     |
-| `phase-03-ai/`           | Expérimentations et intégration de services d’intelligence artificielle. |
-| `phase-04-projets/`      | Projets de synthèse, déploiements, tests et bilans.                       |
+| `phase-01-fondamentaux/` | Bases du cloud, environnement de travail et premiers exercices Azure |
+| `phase-02-cloud/` | Infrastructure, réseau, identité, sécurité et automatisation Azure |
+| `phase-03-services-intelligents/` | Expérimentations et intégration de services intelligents |
+| `phase-04-projets/` | Projets de synthèse, déploiements, tests et bilans |
 
 Le dossier [day-001](day-001/README.md) accueillera les premières preuves de travail. Les réalisations suivantes seront classées par phase et par projet, avec un README précisant leur objectif, les étapes de reproduction et les résultats.
 
 ## Contenu publié
 
-Ce repository contient uniquement des productions personnelles. Le pack de cours **AI150_V2**, ses supports et ses exercices ne sont pas reproduits ni publiés ici. Les supports de formation restent en local.
+Ce dépôt contient uniquement mes productions personnelles. Le pack de cours **AI150_V2**, ses supports et ses exercices ne sont ni reproduits ni publiés ici. Ils restent sur mon poste.
 
 ## État initial
 
-Repository initialisé. Les preuves de réalisation et les bilans seront ajoutés au fil du challenge.
+Le dépôt est initialisé. Les réalisations et les bilans seront ajoutés au fil des jours.
