@@ -160,18 +160,18 @@ Le risque est de publier un secret ou un fichier qui ne devrait pas être envoy�
 
 ## Checklist du jour
 
-- [x] J'ai compris l'objectif du jour.
-- [x] J'ai étudié le cours.
-- [x] J'ai produit ce journal technique.
-- [x] J'ai défini ma méthode de travail.
-- [x] J'ai identifié une erreur ou une limite à tester.
-- [x] J'ai identifié la cause d'un problème.
-- [x] J'ai répondu aux exercices.
-- [x] J'ai identifié un risque, une limite et un compromis.
-- [x] J'ai défini une preuve de travail.
-- [ ] J'ai vérifié l'état du dépôt avec `git status`.
-- [ ] J'ai créé le commit final.
-- [ ] J'ai envoyé le travail sur GitHub.
+- [X] J'ai compris l'objectif du jour.
+- [X] J'ai étudié le cours.
+- [X] J'ai produit ce journal technique.
+- [X] J'ai défini ma méthode de travail.
+- [X] J'ai identifié une erreur ou une limite à tester.
+- [X] J'ai identifié la cause d'un problème.
+- [X] J'ai répondu aux exercices.
+- [X] J'ai identifié un risque, une limite et un compromis.
+- [X] J'ai défini une preuve de travail.
+- [X] J'ai vérifié l'état du dépôt avec `git status`.
+- [X] J'ai créé le commit final.
+- [X] J'ai envoyé le travail sur GitHub.
 
 ## Bilan du jour 1
 
