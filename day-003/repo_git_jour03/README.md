@@ -21,3 +21,7 @@ La preuve sera l'historique Git, les fichiers du dossier et les résultats des c
 ## Première observation
 
 Après la création de `working_tree.md`, `git status --short` a affiché le fichier comme non suivi. La commande `git diff` n'a rien affiché, car ce fichier n'était pas encore suivi par Git. Ce cas montre que `git status` sert à repérer les nouveaux fichiers, tandis que `git diff` sert à examiner les différences des fichiers déjà suivis.
+
+## Démonstration de la zone de préparation
+
+Après la préparation de la première version de `staging_commit_historique.md`, le fichier a été modifié une seconde fois. `git status --short` a affiché `AM`. La commande `git diff` a montré les modifications non préparées, tandis que `git diff --cached` a montré la première version gardée dans la zone de préparation. Après une nouvelle commande `git add`, la version finale pourra être enregistrée dans le commit.
