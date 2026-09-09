@@ -17,3 +17,7 @@ Ajouter tous les fichiers sans les vérifier peut inclure un fichier temporaire,
 ## Preuve de réussite
 
 La preuve sera l'historique Git, les fichiers du dossier et les résultats des commandes de vérification.
+
+## Première observation
+
+Après la création de `working_tree.md`, `git status --short` a affiché le fichier comme non suivi. La commande `git diff` n'a rien affiché, car ce fichier n'était pas encore suivi par Git. Ce cas montre que `git status` sert à repérer les nouveaux fichiers, tandis que `git diff` sert à examiner les différences des fichiers déjà suivis.
