@@ -25,3 +25,7 @@ Après la création de `working_tree.md`, `git status --short` a affiché le fic
 ## Démonstration de la zone de préparation
 
 Après la préparation de la première version de `staging_commit_historique.md`, le fichier a été modifié une seconde fois. `git status --short` a affiché `AM`. La commande `git diff` a montré les modifications non préparées, tandis que `git diff --cached` a montré la première version gardée dans la zone de préparation. Après une nouvelle commande `git add`, la version finale pourra être enregistrée dans le commit.
+
+## Validation du lab
+
+Les commandes `git status`, `git diff`, `git diff --cached` et `git log --oneline --graph --decorate -5` ont permis de vérifier les trois étapes du cycle Git. L'historique contient trois commits atomiques, chacun consacré à une idée précise.
