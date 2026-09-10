@@ -1,3 +1,3 @@
 # Message d'équipe
 
-Statut du message : en attente de revue sur main.
+Statut du message : validé après revue sur main.
