@@ -1,3 +1,3 @@
 # Message d'équipe
 
-Statut du message : à définir.
+Statut du message : validé par la branche de fonctionnalité.
