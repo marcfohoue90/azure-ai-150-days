@@ -4,7 +4,7 @@
 
 Travailler comme dans une équipe en utilisant une branche courte, une revue de code et une fusion contrôlée.
 
-## Travail prévu
+## Travail réalisé
 
 - Créer une branche de fonctionnalité.
 - Modifier le même fichier sur la branche et sur `main`.
@@ -17,9 +17,9 @@ Travailler comme dans une équipe en utilisant une branche courte, une revue de 
 
 ## Critères de fin
 
-- [ ] Je peux expliquer le sujet sans mes notes.
-- [ ] La preuve du conflit Git est terminée.
-- [ ] J'ai fait les exercices avant de consulter le corrigé.
-- [ ] J'ai identifié une limite, un risque ou un compromis.
-- [ ] J'ai conservé une preuve de travail.
-- [ ] Le travail a été enregistré dans Git et envoyé sur GitHub.
+- [x] Je peux expliquer le sujet sans mes notes.
+- [x] La preuve du conflit Git est terminée.
+- [x] J'ai fait les exercices avant de consulter le corrigé.
+- [x] J'ai identifié une limite, un risque ou un compromis.
+- [x] J'ai conservé une preuve de travail.
+- [x] Le travail a été enregistré dans Git et sera envoyé sur GitHub.

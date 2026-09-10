@@ -37,5 +37,6 @@ Ce dépôt contient uniquement mes productions personnelles. Le pack de cours **
 | 1 | Méthode de travail et Git | [Journal technique](day-001/journal_technique.md) |
 | 2 | Windows, WSL2 et VS Code | [Diagnostic de l'environnement](day-002/diagnostic_environnement.md) |
 | 3 | Git, zone de préparation et historique | [Lab Git](day-003/repo_git_jour03/README.md) |
+| 4 | Git, branches et conflits | [Preuve de conflit Git](day-004/preuve_conflit_git.md) |
 
 Les réalisations et les bilans seront ajoutés au fil des jours.
