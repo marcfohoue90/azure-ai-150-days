@@ -40,5 +40,6 @@ Ce dépôt contient uniquement mes productions personnelles. Le pack de cours **
 | 4 | Git, branches et conflits | [Preuve de conflit Git](day-004/preuve_conflit_git.md) |
 | 5 | Markdown et documentation technique | [README professionnel](day-005/README_professionnel.md) |
 | 6 | Python, variables, types et contrôle de flux | [Calculateur de budget cloud](day-006/budget_cloud.py) |
+| 7 | Python, collections et complexité pratique | [Parser de ressources](day-007/resources_parser.py) |
 
 Les réalisations et les bilans seront ajoutés au fil des jours.
